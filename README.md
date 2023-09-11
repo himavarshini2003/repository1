@@ -1,4 +1,4 @@
 # repository1
 This is my repo.
 <br>
-Author- Hima Varshini.
+Author- Hima Varshini Siralam
